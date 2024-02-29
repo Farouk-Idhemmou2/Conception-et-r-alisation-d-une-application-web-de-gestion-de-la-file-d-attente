@@ -1,0 +1,2 @@
+# Conception-et-r-alisation-d-une-application-web-de-gestion-de-la-file-d-attente
+Digitaliser la borne d’attente pour permettre aux clients de générer un ticket contenant son numéro d’attente . Ensuite  Création d’une  partie admin dédiée pour la gestion des employés de Redal, où l’admin peut ajouter,modifier ou supprimer des employés. En fin la Création d’une  partie utilisateur normal peut juste valider les tickets.
